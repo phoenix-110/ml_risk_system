@@ -7,3 +7,5 @@ statsmodels
 arch
 torch
 tqdm
+xgboost
+lightgbm
